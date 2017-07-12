@@ -1,0 +1,22 @@
+{
+    "name": "Holidays/holidays",
+    "description": "supply a festival and holiday package",
+    "keywords": ["laravel","performance"],
+    "homepage": "https://github.com/tanteng/laravel-page-loaded-time",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "hongqiao",
+        "email": "1763012214@qq.com",
+        "homepage": "http://www.tanteng.me",
+        "role": "Developer"
+      }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "laravel/framework": "~4.0"
+    },
+    "autoload": {
+      "psr-4": { "Loading\\": "" }
+    }
+}
